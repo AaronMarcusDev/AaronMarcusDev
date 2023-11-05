@@ -1,9 +1,9 @@
 ### Hello there, I am Aaron Struikenkamp 👋.
 I am a 15 year old software developer from the Netherlands 🇳🇱.
 
-- I speak Dutch 🇳🇱 , English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 and Spanish 🇪🇸.
+- I speak Dutch 🇳🇱 , English 🏴󠁧󠁢󠁥 and Spanish 🇪🇸.
 
-- I love building programming languages and web-apps 👨‍💻.
+- I love building programming languages and mobile apps 👨‍💻.
 
 - My biggest (and most active) project is my programming language, [Coly](https://github.com/AaronMarcusDev/Coly).
 
