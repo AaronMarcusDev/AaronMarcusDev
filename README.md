@@ -1,11 +1,30 @@
-### Hello there, I am Aaron Struikenkamp 👋.
-I am a 16 year old software developer from the Netherlands 🇳🇱.
+# Hello there, I am Aaron Struikenkamp 👋.
+I am an 18 year old Dutch software developer, I currently study **Creative Technology** at the **University of Twente.**
+> [Want to see my portfolio?](https://aaronmarcusdev.github.io/Portfolio-Aaron-Struikenkamp/)
 
-- I speak Dutch 🇳🇱 , English 🏴󠁧󠁢󠁥 and Spanish 🇪🇸.
+## 🌍 Interests
+- **Mechanical design**
+- **Computing**
+- **Sustainable tech**
+- **Engineering**
+- **Mathematics**
+- **Software Development**
+  - Mobile app development
+  - Web development (backend)
+- **Compiler engineering**
 
-- I love building programming languages and mobile apps 👨‍💻.
+## 🛠️ My skillset in terms of programming
+I am mainly experienced in creating mobile applications in Flutter, and thus also in the Dart language from Google. This is reflected in the statistic at the bottom of the readme.
 
-- My biggest (and most active) project is my programming language, [Coly](https://github.com/AaronMarcusDev/Coly).
+I have also spent a lot of time working on other projects in which I have learned:
+- **Graphics programming with Processing**
+- **HTML, CSS & Javascript**
+- **Julia for mathematics**
+
+## 👷‍♂️ What do I do (sometimes)?
+- I love tinkering with programming languages and building mobile apps 👨‍💻.
+
+- My most interesting project is my programming language, [Coly](https://github.com/AaronMarcusDev/Coly).
 
 ---
 
