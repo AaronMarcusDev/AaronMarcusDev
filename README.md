@@ -3,9 +3,9 @@ I am an 18 year old Dutch software developer, I currently study **Creative Techn
 > [Want to see my portfolio?](https://aaronmarcusdev.github.io/Portfolio-Aaron-Struikenkamp/)
 
 ## 🌍 Interests
-- **Mechanical design**
+- **(Mechanical) design**
 - **Computing**
-- **Sustainable tech**
+- **Sustainable technology**
 - **Engineering**
 - **Mathematics**
 - **Software Development**
@@ -17,9 +17,11 @@ I am an 18 year old Dutch software developer, I currently study **Creative Techn
 I am mainly experienced in creating mobile applications in Flutter, and thus also in the Dart language from Google. This is reflected in the statistic at the bottom of the readme.
 
 I have also spent a lot of time working on other projects in which I have learned:
+- **Dart & Flutter for mobile app development**
 - **Graphics programming with Processing**
 - **HTML, CSS & Javascript**
 - **Julia for mathematics**
+- **Python for data visualisation**
 
 ## 👷‍♂️ What do I do (sometimes)?
 - I love tinkering with programming languages and building mobile apps 👨‍💻.
